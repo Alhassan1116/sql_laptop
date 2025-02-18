@@ -1,2 +1,3 @@
 SELECT * FROM laptop_information
-LIMIT 10
+WHERE brand = 'Lenovo'
+LIMIT 20
