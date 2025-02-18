@@ -1,3 +1,3 @@
 SELECT * FROM laptop_information
-WHERE brand = 'Lenovo'
+WHERE brand = 'Razer'
 LIMIT 20
